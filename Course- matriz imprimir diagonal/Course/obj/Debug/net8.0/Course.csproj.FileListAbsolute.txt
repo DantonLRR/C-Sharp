@@ -1,0 +1,28 @@
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\bin\Debug\net8.0\Course.exe
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\bin\Debug\net8.0\Course.deps.json
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\bin\Debug\net8.0\Course.dll
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\bin\Debug\net8.0\Course.pdb
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\Course.dll
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\refint\Course.dll
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\Course.pdb
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Course\Course\obj\Debug\net8.0\ref\Course.dll
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\bin\Debug\net8.0\Course.exe
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\bin\Debug\net8.0\Course.deps.json
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\bin\Debug\net8.0\Course.runtimeconfig.json
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\bin\Debug\net8.0\Course.dll
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\bin\Debug\net8.0\Course.pdb
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\Course.AssemblyInfoInputs.cache
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\Course.AssemblyInfo.cs
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\Course.csproj.CoreCompileInputs.cache
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\Course.dll
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\refint\Course.dll
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\Course.pdb
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\Course.genruntimeconfig.cache
+C:\Danton\C# completo Programação Orientada a Objetos + projetos - Nélio alves\Atividades\Course- matriz imprimir diagonal\Course\obj\Debug\net8.0\ref\Course.dll
